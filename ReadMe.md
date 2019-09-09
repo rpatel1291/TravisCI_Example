@@ -20,3 +20,5 @@ Part 2:
 
 
 ### Assignment 2b
+
+[![build status of master](https://travis-ci.org/rpatel1291/TravisCI_Example.svg?branch=master)](https://travis-ci.org/rpatel1291/TravisCI_Example)
